@@ -1,0 +1,14 @@
+[
+    {
+        "id": "{f6f86421-ec1b-49f6-b175-ae4b5dc24358}",
+        "platform": "Telegram",
+        "target_id": "@Ald_Test",
+        "token": "7612224803:AAFNt-BOUqiGE3l2ehtEv-Dd3TfgKpYoLrA"
+    },
+    {
+        "id": "{4c9f0965-f5bb-4d6e-bfa5-e2956f84d685}",
+        "platform": "VK",
+        "target_id": "230790561",
+        "token": "vk1.a.BUH3_T-zC2QwG7rMwoXwH5jLms5PsAPC1-iUfyKDpr5DQ5QoTkAHE0-FPYhLlVQGzTOWq9AEKxGI_Quv26dDp4aeyf_iazTt5n-zb0GgiMktKJlqtfEf5gzmXu-PtRd64Un7N4IA7zvpcYMJYMokREE3d14wknU7R8mYS_uUHObTiRSsQkFfFs4PcUlSHdkpWIuKjkEyqX4CF8EJHuHDgw"
+    }
+]
