@@ -46,7 +46,7 @@ cd build
 
 
 Соберите проект:
-qmake ../PostSocialService.pro
+qmake ../social_media_sevice.pro
 make
 
 
